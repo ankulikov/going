@@ -1,4 +1,4 @@
-module goPlayground
+module going
 
 go 1.18
 
